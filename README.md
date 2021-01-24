@@ -4,4 +4,4 @@ I am Vembry, a Software Engineer, currently employed at [@tiket](https://github.
 📫 How to reach me: 
 - email: airstrip99@gmail.com
 - linkedin: [Jeo Vembry](https://www.linkedin.com/in/jeo-vembry/)
-- work github account: @jeopratama
+- work github account: [@jeopratama](https://github.com/jeopratama)
